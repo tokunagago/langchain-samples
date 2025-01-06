@@ -1,2 +1,3 @@
 .venv/
 chat-sample/.env
+.ds_store
